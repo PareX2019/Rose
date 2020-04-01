@@ -1,0 +1,5 @@
+C:\Users\PareX\source\repos\Rose\Rose\bin\Debug\RoseryAPI.dll
+C:\Users\PareX\source\repos\Rose\Rose\bin\Debug\RoseryAPI.pdb
+C:\Users\PareX\source\repos\Rose\Rose\obj\Debug\RoseryAPI.dll
+C:\Users\PareX\source\repos\Rose\Rose\obj\Debug\RoseryAPI.pdb
+C:\Users\PareX\source\repos\Rose\Rose\obj\Debug\Rose.csprojAssemblyReference.cache

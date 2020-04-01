@@ -1,0 +1,10 @@
+C:\Users\PareX\source\repos\Rose\Rose\bin\Release\E2_API.dll
+C:\Users\PareX\source\repos\Rose\Rose\bin\Release\E2_API.pdb
+C:\Users\PareX\source\repos\Rose\Rose\obj\Release\E2.csprojAssemblyReference.cache
+C:\Users\PareX\source\repos\Rose\Rose\obj\Release\E2_API.dll
+C:\Users\PareX\source\repos\Rose\Rose\obj\Release\E2_API.pdb
+K:\repos\Rose\Rose\bin\Release\E2_API.dll
+K:\repos\Rose\Rose\bin\Release\E2_API.pdb
+K:\repos\Rose\Rose\obj\Release\E2.csprojAssemblyReference.cache
+K:\repos\Rose\Rose\obj\Release\E2_API.dll
+K:\repos\Rose\Rose\obj\Release\E2_API.pdb

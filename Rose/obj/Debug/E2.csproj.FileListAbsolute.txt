@@ -1,0 +1,5 @@
+C:\Users\PareX\source\repos\Rose\Rose\bin\Debug\E2_API.dll
+C:\Users\PareX\source\repos\Rose\Rose\bin\Debug\E2_API.pdb
+C:\Users\PareX\source\repos\Rose\Rose\obj\Debug\E2.csprojAssemblyReference.cache
+C:\Users\PareX\source\repos\Rose\Rose\obj\Debug\E2_API.dll
+C:\Users\PareX\source\repos\Rose\Rose\obj\Debug\E2_API.pdb
