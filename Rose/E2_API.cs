@@ -49,7 +49,7 @@ namespace E2
 
         public static void isUpdated()
         {
-            string a = CustomDownloadString("https://pastebin.com/raw/iw881d1Z");
+            string a = CustomDownloadString("https://pastebin.com/raw/isUpdatedLink");
             if(a == "0")
             {
                 MessageBox.Show($"{Form.ActiveForm.Name} Isn't Updated Right Now!Be Patient For An Update!",$"{Form.ActiveForm.Name}",MessageBoxButtons.OK,MessageBoxIcon.Error);
