@@ -15,8 +15,8 @@ namespace E2
     {
 
         public static string dllname = "E2.dll";
-        public static string dlllink = "https://pastebin.com/raw/D9HCk8A3";
-        public static string dllpipe = "ifelturhighs";
+        public static string dlllink = "https://pastebin.com/raw/fuck u skid";
+        public static string dllpipe = "kys";
 
         Pipe.BasicInject Injector = new Pipe.BasicInject();
         private static void NonMainExecute(string yes)
